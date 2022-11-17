@@ -4,3 +4,21 @@ body {
   text-align: center;
   color:white;
 }
+#Avatar{
+  height: 50px;
+  border-radius: 50px;
+}
+.container{
+  display: inline-block;
+  margin: 0 auto;
+}
+figure{
+  width: 50px;
+}
+.msg{
+  display: inline-block;
+  padding-left: 10px;
+}
+.date{
+  color: gray;
+}
