@@ -2,7 +2,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   background-color: antiquewhite;
   text-align: center;
-  color:white;
+  color:black;
 }
 #Avatar{
   height: 50px;
@@ -21,4 +21,5 @@ figure{
 }
 .date{
   color: gray;
+  font-size: 10px;
 }
